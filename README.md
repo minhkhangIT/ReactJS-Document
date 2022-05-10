@@ -20,3 +20,8 @@ Learning about ReacJS
 ## Use icon 
 - Add the link below in index.html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+## CSS
+- Margin : tạo khoảng cách bên trái phải trên dưới
+- Padding: tạo khoảng cách bên trong ra border (ví dụ khoảng cách của chữ trong khung)
+- Float: lệch phải hoặc trái
